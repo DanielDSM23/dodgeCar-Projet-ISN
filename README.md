@@ -1,10 +1,11 @@
 # dodgeCar
- 
-<h1>Jeu crée en python avec le module Pygame</h1>
 
-<p>Crée en 2020, en tant que projet ISN (Informatique et Sciences du Numérique)</p>
+# Jeu créé en python avec le module Pygame
 
-<img src="https://i.ibb.co/jy9f901/dodgeCar.png">
+Créé en 2020, en tant que projet ISN (Informatique et Sciences du Numérique)
 
-<img src="https://i.ibb.co/znrbsPX/dodge-Car-Demo.gif">
+![Dodge Car Image](https://i.ibb.co/jy9f901/dodgeCar.png)
+
+![Dodge Car Demo](Images/dodge-Car-Demo.gif)
+
 
