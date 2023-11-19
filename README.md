@@ -5,7 +5,7 @@
 Créé en 2020, en tant que projet ISN (Informatique et Sciences du Numérique)
 
 ![Dodge Car Image](https://i.ibb.co/jy9f901/dodgeCar.png)
-
-![Dodge Car Demo](Images/dodge-Car-Demo.gif)
-
+<div style="text-align:center;">
+	![Dodge Car Demo](Images/dodge-Car-Demo.gif){width=50%}
+</div>
 
